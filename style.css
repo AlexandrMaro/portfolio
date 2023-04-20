@@ -162,7 +162,7 @@ body {
 
 .home {
   display: flex;
-  background: url('../images/mainPhoto.jpg') center / 100% no-repeat;
+  background: url('images/mainPhoto.jpg') center / 100% no-repeat;
   height: 100vh;
   color: #fff;
   min-height: 500px;
